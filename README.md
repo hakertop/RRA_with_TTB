@@ -6,6 +6,5 @@
 &emsp;&emsp;[1] 王一舟, 郑德文, 张会平, 2022. 河流高程剖面分析的方法与程序实现——基于Matlab平台编写的开源函数集RiverProAnalysis. 中国科学:地球科学 52, 2039–2060.  
 &emsp;&emsp;[2]  Schwanghart, W., Kuhn, N.J., 2010. TopoToolbox: A set of Matlab functions for topographic analysis. Environmental Modelling & Software 25.  
 &emsp;&emsp;[3]  Schwanghart, W., Scherler, D., 2014. Short Communication: TopoToolbox 2 – MATLAB-based software for topographic analysis and modeling in Earth surface sciences. Earth Surface Dynamics 2, 1–7.   
-（5）如果使用该程序遇到问题需要反馈，可参考Bilibili视频。。。，或通过邮件方式联系yangen_shen@163.com
-</font>
+（5）如果使用该程序遇到问题需要反馈，可参考Bilibili视频。。。，或通过邮件方式联系yangen_shen@163.com </font>
 
